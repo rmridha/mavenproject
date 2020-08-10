@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.domain</groupId>
   <artifactId>ROOT</artifactId>
-  <version></version>
+  <version>1.0</version>
   <packaging>war</packaging>
   <name>Demo Maven Webapp</name>
   <url>https://github.com/tongueroo/demo-java</url>
