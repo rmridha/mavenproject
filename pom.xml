@@ -4,7 +4,6 @@
   <groupId>com.domain</groupId>
   <artifactId>ROOT</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
   <name>Demo Maven Webapp</name>
   <url>https://github.com/tongueroo/demo-java</url>
   <build>
